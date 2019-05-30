@@ -1,0 +1,21 @@
+ERC report (5/15/2019 5:22:30 PM, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /Power/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(185.42 mm, 27.94 mm): Pin 1 (Power input) of component U2 is not driven (Net 16).
+
+***** Sheet /BLE/
+
+***** Sheet /LED/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(134.62 mm, 77.47 mm): Pin 1 (Power input) of component #PWR031 is not driven (Net 10).
+
+***** Sheet /LED_Driver/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(194.31 mm, 68.58 mm): Pin 1 (Power input) of component #PWR036 is not driven (Net 11).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(127.00 mm, 78.74 mm): Pin 5 (Power input) of component U3 is not driven (Net 66).
+
+ ** ERC messages: 4  Errors 0  Warnings 4
